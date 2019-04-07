@@ -1,10 +1,8 @@
 ---
 name: FashionMnist Recognition
 about: 'Machine Learning Assignment #3'
-title: ''
+title: 'FashionMnist Recognition'
 labels: ''
 assignees: ''
 
 ---
-
-index.html
